@@ -37,8 +37,12 @@ h2 {
   transition: all 0.5s ease-in-out;
 }
 
-.slider-content img {
+.slider-content-img {
   width: 25%;
+}
+
+.slider-content-img img {
+  width: 100%;
 }
 
 .btn {
